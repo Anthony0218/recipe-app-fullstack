@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1699885301114,
+      "tag": "0000_past_grandmaster",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1699906311721,
+      "tag": "0001_thankful_chronomancer",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1699915514814,
+      "tag": "0002_harsh_screwball",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1699915657420,
+      "tag": "0003_mighty_wrecking_crew",
+      "breakpoints": true
+    }
+  ]
+}
